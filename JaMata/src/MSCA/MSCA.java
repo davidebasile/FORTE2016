@@ -35,7 +35,7 @@ import CA.CATransition;
 import FSA.Transition;
 
 
-/** 
+/** prova
  * Class implementing a Modal Service Contract Automaton and its functionalities
  * The class is under construction, some functionalities are not yet updated
  * 

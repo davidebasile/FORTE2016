@@ -21,6 +21,7 @@ import FSA.Transition;
 @SuppressWarnings("serial")
 public class MSCATransition extends CATransition implements java.io.Serializable{ 
 	private boolean must;  
+	private int type; // 0-greedy, 1-urgent, 2-lazy
 	
 	/**
 	 * 
