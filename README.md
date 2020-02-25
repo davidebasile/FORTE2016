@@ -1,4 +1,4 @@
-This tool is no longer maintained, and has been substituted by FMCAT.
+Check FMCAT repository for an update version of the tool (not all the functionalities of CAT have been maintained  by FMCAT).
 
 ----------------------------------------------------------------------------
 
