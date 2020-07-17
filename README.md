@@ -1,4 +1,4 @@
-Check FMCAT repository for an update version of the tool (not all the functionalities of CAT have been maintained  by FMCAT).
+Check FMCAT repository for an updated version of the tool (not all the functionalities of CAT have been maintained  by FMCAT).
 
 ----------------------------------------------------------------------------
 
