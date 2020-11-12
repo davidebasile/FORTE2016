@@ -1,4 +1,5 @@
-Check FMCAT repository for an updated version of the tool (not all the functionalities of CAT have been maintained  by FMCAT).
+This tool is now obsolete and has been replaced by FMCAT. 
+Check davidebasile/FMCAT repository (not all the functionalities of CAT have been maintained  by FMCAT).
 
 ----------------------------------------------------------------------------
 
