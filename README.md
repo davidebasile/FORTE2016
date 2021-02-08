@@ -1,5 +1,6 @@
-This tool is now obsolete and has been replaced. 
-Check davidebasile/ContractAutomataTool repository (not all the functionalities  have been maintained  by the new version).
+This is the legacy code of earlier CAT version and has been replaced. 
+Not all functionalities have been maintained in the new version.
+Check the new repository version.
 
 ----------------------------------------------------------------------------
 
