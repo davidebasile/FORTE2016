@@ -2,6 +2,7 @@ references:
 
 https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
 
+```tex
 @inproceedings{DBLP:conf/forte/BasileDFT16,
   author    = {Davide Basile and
                Pierpaolo Degano and
@@ -26,6 +27,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
   biburl    = {https://dblp.org/rec/conf/forte/BasileDFT16.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
 ----------------------------------------------------------------------------
 
@@ -40,13 +42,6 @@ The directory JaMaTa contains the java tool, see JaMaTa/README.
 The folder ampl contains a tool implemented in AMPL for deciding if a CA is weakly safe and admits weak agreement,
 see README inside ampl.
 
-Developed with JDK 7 from: http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
-
-and Eclipse.
-
-**Usage**
-
-Import the workspace in Eclipse, run the program and follow the instructions. 
+Developed with JDK 7 and Eclipse.
 A file Readme is located in the workspace with some useful comments. 
 
-Check https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
