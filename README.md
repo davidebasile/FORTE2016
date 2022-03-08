@@ -1,6 +1,14 @@
-references:
 
-https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
+This is the legacy code of the first prototypical version of the Contract Automata Toolkit Library (CATLib), part of the 
+Contract Automata Toolkit (CAT) (https://github.com/ContractAutomataProject).  
+Initially, CAT contained only CATLib, thus CATLib was referred as CAT in [1].
+This repository contains a nucleus of the old version of CATLib, prior to its refactoring. 
+This repository contains other original functionalities that are not in the intersection with CATLib (e.g., AMPL models of weak agreement, 
+branching condition, mixed choice checking). 
+
+References:
+
+[1] https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
 
 ```tex
 @inproceedings{DBLP:conf/forte/BasileDFT16,
@@ -31,9 +39,7 @@ https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
 
 ----------------------------------------------------------------------------
 
-This is the legacy code of earlier CAT version and has been replaced. 
-Not all functionalities have been maintained in the new version.
-Check the new repository version.
+
 
 ----------------------------------------------------------------------------
 
