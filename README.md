@@ -2,7 +2,7 @@
 This is the legacy code (published in [1]) of the first prototypical version of the Contract Automata Toolkit Library (CATLib), part of the 
 Contract Automata Toolkit (CAT) (https://github.com/ContractAutomataProject).  
 Initially, CAT only contained CATLib, thus CATLib was referred as CAT in [1].
-This repository contains a nucleus of the old version of CATLib, prior to its extension to variability [2], abstract synthesis [3], and its refactoring [4] . 
+This repository contains a nucleus of the old version of CATLib, prior to its extension to variability [2], abstract synthesis [3], and its complete refactoring and improvement [4] . 
 This repository contains other original functionalities that are not in the intersection with CATLib (e.g., AMPL models of weak agreement, 
 branching condition, mixed choice checking). 
 
