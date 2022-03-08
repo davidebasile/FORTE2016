@@ -2,13 +2,14 @@
 This is the legacy code of the first prototypical version of the Contract Automata Toolkit Library (CATLib), part of the 
 Contract Automata Toolkit (CAT) (https://github.com/ContractAutomataProject).  
 Initially, CAT only contained CATLib, thus CATLib was referred as CAT in [1].
-This repository contains a nucleus of the old version of CATLib, prior to its extension to product lines and its refactoring. 
+This repository contains a nucleus of the old version of CATLib, prior to its extension to variability [2] and its refactoring [3] . 
 This repository contains other original functionalities that are not in the intersection with CATLib (e.g., AMPL models of weak agreement, 
 branching condition, mixed choice checking). 
 
 References:
 
-[1] https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
+[1] Basile, D., Degano, P., Ferrari, G.L. and Tuosto, E., 2016, June. Playing with our CAT and communication-centric applications. In International Conference on Formal Techniques for Distributed Objects, Components, and Systems (pp. 62-73). Springer, Cham.
+https://link.springer.com/content/pdf/10.1007%2F978-3-319-39570-8_5.pdf
 
 ```tex
 @inproceedings{DBLP:conf/forte/BasileDFT16,
@@ -36,6 +37,10 @@ References:
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+
+[2] Basile, D., ter Beek, M.H., Degano, P., Legay, A., Ferrari, G.L., Gnesi, S. and Di Giandomenico, F., 2020. Controller synthesis of service contracts with variability. Science of Computer Programming, 187, p.102344.
+
+[3] Basile, D. and Beek, M.H.T., 2021, June. A clean and efficient implementation of choreography synthesis for behavioural contracts. In International Conference on Coordination Languages and Models (pp. 225-238). Springer, Cham.
 
 ----------------------------------------------------------------------------
 
